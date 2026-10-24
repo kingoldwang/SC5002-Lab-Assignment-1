@@ -1,12 +1,10 @@
-# SC5002-Lab-Assignment-1
-
 # SC5002 Lab Assignment 1: Linear vs Ridge Regression
 
-This contains the Google Colab notebook for Part 2 of the SC5002 AI Fundamentals & Applications lab assignment. I trained Linear Regression and Ridge Regression models on the California Housing dataset to see how changing Ridge's penalty (alpha) affects how well the model predicts house prices.
+This repo contains the Google Colab notebook for Part 2 of the SC5002 AI Fundamentals & Applications lab assignment. I trained Linear Regression and Ridge Regression models on the California Housing dataset to see how changing Ridge's penalty (alpha) affects how well the model predicts house prices.
 
 ## What's in this repo
 
-- `SC5002_Lab_Assignment_1`: the full notebook, with all outputs saved (dataset preview, scores and chart)
+- `SC5002_Lab_Assignment_1.ipynb`: the full notebook, with all outputs saved (dataset preview, scores and chart)
 
 ## What the notebook does
 
